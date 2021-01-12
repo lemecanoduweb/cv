@@ -118,9 +118,9 @@ Spécialité Electrotechnique
 En dehors de ma passion pour l'informatique, j'aime beaucoup la montagne et la cuisine. \
 Je pratique la course à pied, le ski, l'alpinisme et la randonnée.
 
-[gmail]: https://github.com/lemecanoduweb/cv/blob/logo/gmail-24.png
-[linkedin]: https://github.com/lemecanoduweb/cv/blob/logo/linkedin-24.png
-[github]: https://github.com/lemecanoduweb/cv/blob/logo/github-24.png
+[gmail]: https://github.com/lemecanoduweb/cv/blob/master/logo/gmail-24.png
+[linkedin]: https://github.com/lemecanoduweb/cv/blob/master/logo/linkedin-24.png
+[github]: https://github.com/lemecanoduweb/cv/blob/master/logo/github-24.png
 
 [1]: mailto:jtutzo.pro@gmail.com
 [2]: https://www.linkedin.com/in/jérémy-tutzo-146228100
