@@ -27,7 +27,7 @@ Concernant mes qualités, j’ai une bonne communication, je suis persévérant 
 
 J'ai intégré la filiale de financement de la Société Générale (SGCIB) en tant que prestataire (Xebia).
 
-J'ai travaillé en méthode kanban, au sein d'une feature team, sur un projet de crédits structurés. La stack technique était composée de plusieurs microservices Event Sourcés en Java/Kotlin et quelques fronts en Angular ou React.
+J'ai travaillé en méthode kanban, au sein d'une feature team, sur un projet web de crédits structurés. La stack technique était composée de plusieurs microservices Event Sourcés en Java/Kotlin et quelques fronts en Angular ou React.
 
 J'ai du mettre en pratique ma polyvalence sur ces différentes technologies.
 
@@ -41,7 +41,7 @@ Ma mission consistait à :
 
 ### Fév 2018 - nov 2018 : Digital Insure (Amj-Groupe)
 
-Digital Insure est une startup qui développe un outil pour l'obtention d'assurances crédits en ligne. J'ai intégré, en tant que prestataire (Amj-groupe), le pôle support.
+Digital Insure est une startup qui développe un outil web pour l'obtention d'assurances crédits en ligne. J'ai intégré, en tant que prestataire (Amj-groupe), le pôle support.
 
 J'avais pour responsabilité de garantir la pérennité des applications.
 J'ai dû réaliser et maintenir différents scripts en Python/Java ainsi qu'une interface d’administration en Anguarjs.
@@ -58,7 +58,7 @@ Mes objectifs étaient de :
 
 ### Nov 2015 - fév 2018 : Missions interne (Amj-groupe)
 
-J'ai travaillé, en collaboration avec des développeurs et des chefs de projet, sur des projets Java en tant que développeur fullstack.
+J'ai travaillé, en collaboration avec des développeurs et des chefs de projet, sur des projets web Java en tant que développeur fullstack.
 
 J'ai pu me familiariser avec des technologies comme Spring, Mybatis, Maven et Jquery.
 
