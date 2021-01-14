@@ -25,7 +25,13 @@ Concernant mes qualités, j’ai une bonne communication, je suis persévérant 
 
 ### Nov 2018 - nov 2020 : Société générale Corporate and Investment Banking (Xebia)
 
-J'ai travaillé sur un projet de crédits structurés au sein d’une feature team. Mon role était de :
+J'ai intégré la filiale de financement de la Société Générale (SGCIB) en tant que prestataire (Xebia).
+
+J'ai travaillé, au sein d'une feature team, sur un projet de crédits structurés. La stack technique était composée de plusieurs microservices Event Sourcés en Java/Kotlin et quelques fronts en Angular ou React. Les principaux frameworks/outils utilisés étaient Spring, Axon, Maven, Jooq, Cucumber.
+
+J'ai du mettre en pratique ma polyvalence sur ces différentes technologies.
+
+Ma mission consistait à :
 - [x] Réaliser **l’étude et le développement des nouvelles features**
 - [x] **Garantir la pérennité des services** (Correction de bugs, identification et résolution de la dette technique)
 - [x] **Gérer**, en relation avec les OPS, **la CI/CD** (jenkins) ainsi que **l’infrastructure de prod** (docker, kubernetes)
