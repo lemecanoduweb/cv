@@ -24,8 +24,8 @@ Concernant mes qualités, j’ai une bonne communication, je suis persévérant 
 ----------------
 
 ### Société générale Corporate and Investment Banking
+> Nov 2018 - Nov 2020 (2ans) \
 > Développeur Fullstack \
-> Nov 2018 - Nov 2020 \
 > Prestation (Xebia)
 
 J'ai travaillé en méthode kanban, au sein d'une feature team, sur un projet web de crédits structurés. 
@@ -42,7 +42,10 @@ Ma mission consistait à :
 
 **`Kotlin` `Typescript` `Spring` `Axon` `Maven` `Angular` `React` `Cucumber` `Jooq`**
 
-### Fév 2018 - nov 2018 : Digital Insure (Amj-Groupe)
+### Digital Insure
+> Fév 2018 - nov 2018 (9 mois) \
+> Support téchnique \
+> Prestation (Amj-Groupe)
 
 Digital Insure est une startup qui développe un outil web pour l'obtention d'assurances crédits en ligne. J'ai intégré, en tant que prestataire (Amj-groupe), le pôle support.
 
