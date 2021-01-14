@@ -28,9 +28,9 @@ Concernant mes qualités, j’ai une bonne communication, je suis persévérant 
 > Nov 2018 - Nov 2020 \
 > Prestation (Xebia)
 
-J'ai intégré la filiale de financement de la Société Générale (SGCIB) en tant que prestataire (Xebia).
+J'ai travaillé en méthode kanban, au sein d'une feature team, sur un projet web de crédits structurés. 
 
-J'ai travaillé en méthode kanban, au sein d'une feature team, sur un projet web de crédits structurés. La stack technique était composée de plusieurs microservices Event Sourcés en Java/Kotlin et quelques fronts en Angular ou React.
+La stack technique était composée de plusieurs microservices Event Sourcés en Java/Kotlin et quelques fronts en Angular ou React.
 
 J'ai du mettre en pratique ma polyvalence sur ces différentes technologies.
 
