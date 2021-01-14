@@ -23,7 +23,10 @@ Concernant mes qualités, j’ai une bonne communication, je suis persévérant 
 *Mes expériences*
 ----------------
 
-### Nov 2018 - nov 2020 : Société générale Corporate and Investment Banking (Xebia)
+### Société générale Corporate and Investment Banking
+> Développeur Fullstack
+> Nov 2018 - Nov 2020
+> Prestation (Xebia)
 
 J'ai intégré la filiale de financement de la Société Générale (SGCIB) en tant que prestataire (Xebia).
 
