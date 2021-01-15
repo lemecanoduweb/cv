@@ -30,7 +30,7 @@ Concernant mes qualités, j’ai une bonne communication, je suis persévérant 
 
 J'ai intégré, en tant que prestataire (Xebia), une feature team pour travailler sur un projet web de crédits structurés. \
 Nous utilisions la méthode **kanban**. \
-Au sein de l'équipe, nous aimions beaucoup travailler en **pair programming**, et pratiquer le **TDD/BDD**.
+Au sein de l'équipe, nous aimions beaucoup faire du **pair programming**, et pratiquer le **TDD/BDD**.
 
 La stack technique était composée de plusieurs **microservices Event Sourcés en Java/Kotlin** et quelques **fronts en Angular ou React**.
 
@@ -49,7 +49,7 @@ Ma mission consistait à :
 
 Digital Insure est une startup qui développe un outil web pour l'obtention d'assurances crédits en ligne. J'ai intégré, en tant que prestataire (Amj-groupe), le pôle support.
 
-J'avais pour responsabilité de **garantir la pérennité des applications**.
+J'avais pour responsabilité de **garantir la pérennité des applications**. \
 J'ai dû réaliser et maintenir différents **scripts en Python/Java** ainsi qu'une interface d’administration en **Anguarjs**.
 
 Ma bonne communication et ma facilité à monter en compétence ont été les clefs pour mener à bien ma mission.
