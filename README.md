@@ -34,7 +34,7 @@ Au sein de l'équipe, nous aimions beaucoup travailler en **pair programming**, 
 
 La stack technique était composée de plusieurs **microservices Event Sourcés en Java/Kotlin** et quelques **fronts en Angular ou React**.
 
-J'ai du mettre en pratique ma polyvalence sur ces différentes technologies.
+Ma polyvalence et ma perséverance ont été deux qualités appréciés par mon équipe.
 
 Ma mission consistait à :
 - [x] Réaliser **l’étude et le développement des nouvelles features**
