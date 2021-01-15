@@ -23,7 +23,7 @@ Concernant mes qualités, j’ai une bonne communication, je suis persévérant 
 *Mes expériences*
 ----------------
 
-### Société générale Corporate and Investment Banking
+### Société Générale Corporate and Investment Banking
 > *Nov 2018 - Nov 2020 (2 ans)* \
 > *Développeur Fullstack* \
 > **`Kotlin` `Spring` `Axon` `Maven` `Angular` `React` `Cucumber` `Jooq`**
