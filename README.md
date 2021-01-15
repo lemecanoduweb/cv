@@ -140,7 +140,7 @@ Spécialité Electrotechnique
 J'apprécie beaucoup Linux et la ligne de commande. \
 J'ai installé et configuré Archlinux avec I3 sur mon ordinateur personnel. \
 En dehors de ma passion pour l'informatique, j'aime beaucoup la montagne et la cuisine. \
-Je pratique la course à pied, le ski, l'alpinisme et la randonnée.
+Je pratique la course à pied, le ski, l'alpinisme et la randonnée pédestre.
 
 [gmail]: https://github.com/lemecanoduweb/cv/blob/master/logo/gmail-24.png
 [linkedin]: https://github.com/lemecanoduweb/cv/blob/master/logo/linkedin-24.png
