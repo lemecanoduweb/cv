@@ -28,13 +28,14 @@ Concernant mes qualités, j’ai une bonne communication, je suis persévérant 
 > *Développeur Fullstack* \
 > **`Kotlin` `Spring` `Axon` `Maven` `Angular` `React` `Cucumber` `Jooq`**
 
-J'ai intégré, en tant que prestataire (Xebia), une feature team pour travailler sur un projet web de crédits structurés. \
-Nous utilisions la méthode **kanban**. \
-Au sein de l'équipe, nous aimions beaucoup faire du **pair programming**, et pratiquer le **TDD/BDD**.
+J'ai intégré, en tant que prestataire (Xebia), une feature team pour travailler sur un projet web de crédits structurés.
+
+Au sein de l'équipe, nous essayions de nous rapprocher le plus possible de la méthode **kanban**. \
+Nous aimions beaucoup faire du **pair programming**, et pratiquer le **TDD/BDD**.
 
 La stack technique était composée de plusieurs **microservices Event Sourcés en Java/Kotlin** et quelques **fronts en Angular ou React**.
 
-Ma polyvalence et ma perséverance ont été deux qualités appréciés par mon équipe.
+Ma polyvalence et ma perséverance ont été deux qualités appréciées par mon équipe.
 
 Ma mission consistait à :
 - [x] Réaliser **l’étude et le développement des nouvelles features**
