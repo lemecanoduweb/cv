@@ -31,7 +31,7 @@ Concernant mes qualités, j’ai une bonne communication, je suis persévérant 
 J'ai intégré, en tant que prestataire (Xebia), une feature team pour travailler sur un projet web de crédits structurés.
 
 Au sein de l'équipe, nous essayions de nous rapprocher le plus possible de la méthode **kanban**. \
-Nous aimions beaucoup faire du **pair programming**, et pratiquer le **TDD/BDD**.
+Nous aimions beaucoup faire du **pair programming**, et pratiquer le **BDD/TDD**.
 
 La stack technique était composée de plusieurs **microservices Event Sourcés en Java/Kotlin** et quelques **fronts en Angular ou React**.
 
