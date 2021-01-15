@@ -48,7 +48,7 @@ Ma mission consistait à :
 > *Support téchnique* \
 > **`AngularJs` `Java` `Python` `Bash` `Mysql`**
 
-Digital Insure est une startup qui développe un outil web pour l'obtention d'assurances crédits en ligne. J'ai intégré, en tant que prestataire (Amj-groupe), le pôle support.
+Digital Insure est une startup qui développe un outil web pour l'obtention d'assurances crédits en ligne. J'ai intégré, en tant que prestataire (Amj Groupe), le pôle support.
 
 J'avais pour responsabilité de **garantir la pérennité des applications**. \
 J'ai dû réaliser et maintenir différents **scripts en Python/Java** ainsi qu'une interface d’administration en **Anguarjs**.
@@ -61,7 +61,7 @@ Mes objectifs étaient de :
 - [x] **développer des outils** pour automatiser l’administration
 - [x] Intégrer des systèmes
 
-### Amj-groupe
+### Amj Groupe
 > *Nov 2015 - fév 2018 (2 ans et 3 mois)* \
 > *Développeur Fullstack* \
 > **`Spring` `MyBatis` `Maven` `JQuery`**
