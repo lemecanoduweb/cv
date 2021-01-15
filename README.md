@@ -29,7 +29,8 @@ Concernant mes qualités, j’ai une bonne communication, je suis persévérant 
 > **`Kotlin` `Spring` `Axon` `Maven` `Angular` `React` `Cucumber` `Jooq`**
 
 J'ai intégré, en tant que prestataire (Xebia), une feature team pour travailler sur un projet web de crédits structurés. \
-Nous utilision la méthode **kanban**. Nous aimions beaucoup, au sein del'équipe, travailler en **pair programming**, et pratiquer **TDD/BDD**.
+Nous utilisions la méthode **kanban**. \
+Au sein de l'équipe, nous aimions beaucoup travailler en **pair programming**, et pratiquer le **TDD/BDD**.
 
 La stack technique était composée de plusieurs **microservices Event Sourcés en Java/Kotlin** et quelques **fronts en Angular ou React**.
 
