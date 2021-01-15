@@ -44,7 +44,7 @@ Ma mission consistait à :
 - [x] Faire du support aux utilisateurs (moins d’une demi-journée par semaine)
 
 ### Digital Insure
-> *Fév 2018 - nov 2018 (9 mois)* \
+> *Fév 2018 - nov 2018 (8 mois)* \
 > *Support téchnique* \
 > **`AngularJs` `Java` `Python` `Bash` `Mysql`**
 
