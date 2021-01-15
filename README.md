@@ -26,7 +26,7 @@ Concernant mes qualités, j’ai une bonne communication, je suis persévérant 
 ### Société générale Corporate and Investment Banking
 > *Nov 2018 - Nov 2020 (2 ans)* \
 > *Développeur Fullstack* \
-> **`Kotlin` `Typescript` `Spring` `Axon` `Maven` `Angular` `React` `Cucumber` `Jooq`**
+> **`Kotlin` `Spring` `Axon` `Maven` `Angular` `React` `Cucumber` `Jooq`**
 
 J'ai travaillé en méthode **kanban**, au sein d'une **feature team**, sur un projet web de crédits structurés. 
 
@@ -59,9 +59,9 @@ Mes objectifs étaient de :
 - [x] Intégrer des systèmes
 
 ### Amj-groupe
-> *Nov 2015 - fév 2018 (2 ans et 3 mois)*
-> *Développeur Fullstack*
-> **`Java` `Javascript` `Spring` `MyBatis` `Maven` `JQuery`**
+> *Nov 2015 - fév 2018 (2 ans et 3 mois)* \
+> *Développeur Fullstack* \
+> **`Spring` `MyBatis` `Maven` `JQuery`**
 
 J'ai travaillé, en collaboration avec des développeurs et des chefs de projet, sur des projets webs en Java.
 
@@ -73,8 +73,6 @@ Mes rôles étaient de :
 - [x] **Réaliser la recette et la livraison** des applications
 - [x] **Effectuer la maintenance applicative**
 - [x] Communiquer avec le client pour comprendre le besoin
-
-**`Java` `Javascript` `Spring` `MyBatis` `Maven` `JQuery`**
 
 *Mes formations*
 ----------------
