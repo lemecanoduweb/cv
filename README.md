@@ -24,9 +24,9 @@ Concernant mes qualités, j’ai une bonne communication, je suis persévérant 
 *Mes expériences*
 ----------------
 
-### Société Générale Corporate and Investment Banking (Consultant)
+### Société Générale Corporate and Investment Banking
 > *Nov 2018 - Nov 2020 (2 ans)* \
-> *Développeur Fullstack* \
+> *Développeur Fullstack (consultant)* \
 > **`Kotlin` `Spring` `Axon` `Maven` `Angular` `React` `Cucumber` `Jooq`**
 
 J'ai intégré une feature team pour travailler sur un projet web de crédits structurés. \
@@ -46,9 +46,9 @@ Ma mission consistait à :
 
 Employé en tant que consultant, j'ai fais une mission de 2 ans à la SGCIB.
 
-### Digital Insure (Consultant)
+### Digital Insure
 > *Fév 2018 - nov 2018 (8 mois)* \
-> *Support téchnique* \
+> *Support téchnique (consultant)* \
 > **`AngularJs` `Java` `Python` `Bash` `Mysql`**
 
 Digital Insure est une startup qui développe un outil web pour l'obtention d'assurances crédits en ligne. J'ai intégré le pôle support. \
