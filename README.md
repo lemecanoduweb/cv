@@ -26,8 +26,7 @@ Concernant mes qualités, j’ai une bonne communication, je suis persévérant 
 
 ### Société Générale Corporate and Investment Banking
 > *Nov 2018 - Nov 2020 (2 ans)* \
-> *Développeur Fullstack* \
-> *Prestation* \
+> *Développeur Fullstack (consultant)* \
 > **`Kotlin` `Spring` `Axon` `Maven` `Angular` `React` `Cucumber` `Jooq`**
 
 J'ai intégré une feature team pour travailler sur un projet web de crédits structurés. \
@@ -43,15 +42,13 @@ Ma mission consistait à :
 
 ### Publicis Sapient (Xebia)
 > *Nov 2018 - Nov 2020 (2 ans)* \
-> *Développeur Fullstack* \
-> *CDI* \
+> *Développeur Fullstack (CDI)*
 
 Employé en tant que consultant, j'ai fais une mission de 2 à la SGCIB.
 
 ### Digital Insure
 > *Fév 2018 - nov 2018 (8 mois)* \
-> *Support téchnique* \
-> *Prestation* \
+> *Support téchnique (consultant)* \
 > **`AngularJs` `Java` `Python` `Bash` `Mysql`**
 
 Digital Insure est une startup qui développe un outil web pour l'obtention d'assurances crédits en ligne. J'ai intégré le pôle support. \
@@ -66,8 +63,7 @@ Mes objectifs étaient de :
 
 ### Amj Groupe
 > *Nov 2015 - fév 2018 (2 ans et 3 mois)* \
-> *Développeur Fullstack* \
-> *CDI* \
+> *Développeur Fullstack (CDI)* \
 > **`Spring` `MyBatis` `Maven` `JQuery`**
 
 J'ai travaillé, en collaboration avec des développeurs et des chefs de projet, sur des projets webs en Java. \
