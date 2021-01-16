@@ -42,8 +42,6 @@ Ma mission consistait à :
 - [x] **Gérer**, en relation avec les OPS, **la CI/CD** (jenkins) ainsi que **l’infrastructure de prod** (docker, kubernetes)
 - [x] Faire du support aux utilisateurs (moins d’une demi-journée par semaine)
 
-Employé en tant que consultant, j'ai fais une mission de 2 ans à la SGCIB.
-
 ### Nov 2015 - nov 2018 : Amj Groupe 
 
 #### Digital Insure
