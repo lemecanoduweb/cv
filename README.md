@@ -24,7 +24,9 @@ Concernant mes qualités, j’ai une bonne communication, je suis persévérant 
 *Mes expériences*
 ----------------
 
-### Nov 2018 - Nov 2020 Xebia
+### Nov 2018 - Nov 2020 : publicis sapient engineering (Xebia)
+
+Employé en tant que consultant, j'ai réalisé une mission de 2ans à la SGCIB.
 
 #### Société Générale Corporate and Investment Banking
 > *Nov 2018 - Nov 2020 (2 ans)* \
