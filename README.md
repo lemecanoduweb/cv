@@ -3,9 +3,10 @@ Jérémy TUTZO [![gmail]][1] [![linkedin]][2] [![github]][3]
 
 ```kotlin
 val jérémyTutzo = Dev(
-  title = "Developer web fullstack"
+  title = "Developer fullstack",
   langages = setOf("java/kotlin", "javascript/typescript"),
   frameworks = setOf("Spring", "Axon", "Angular", "React"),
+  methodologies = setOf("TDD/BDD", "DDD", "Pair programming", "Kanban"),
   locality = "Aachen, Germany",
   year = 27,
   expYears = 5
@@ -23,7 +24,7 @@ Concernant mes qualités, j’ai une bonne communication, je suis persévérant 
 *Mes expériences*
 ----------------
 
-### Société Générale Corporate and Investment Banking
+### Société Générale Corporate and Investment Banking (Xebia)
 > *Nov 2018 - Nov 2020 (2 ans)* \
 > *Développeur Fullstack* \
 > **`Kotlin` `Spring` `Axon` `Maven` `Angular` `React` `Cucumber` `Jooq`**
@@ -43,7 +44,11 @@ Ma mission consistait à :
 - [x] **Gérer**, en relation avec les OPS, **la CI/CD** (jenkins) ainsi que **l’infrastructure de prod** (docker, kubernetes)
 - [x] Faire du support aux utilisateurs (moins d’une demi-journée par semaine)
 
-### Digital Insure
+### Xebia
+> *Nov 2018 - Nov 2020 (2 ans)* \
+> *Développeur Fullstack*
+
+### Digital Insure (Amj Groupe)
 > *Fév 2018 - nov 2018 (8 mois)* \
 > *Support téchnique* \
 > **`AngularJs` `Java` `Python` `Bash` `Mysql`**
