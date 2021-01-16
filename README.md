@@ -44,7 +44,7 @@ Ma mission consistait à :
 > *Nov 2018 - Nov 2020 (2 ans)* \
 > *Développeur Fullstack (CDI)*
 
-Employé en tant que consultant, j'ai fais une mission de 2 à la SGCIB.
+Employé en tant que consultant, j'ai fais une mission de 2 ans à la SGCIB.
 
 ### Digital Insure
 > *Fév 2018 - nov 2018 (8 mois)* \
@@ -67,7 +67,8 @@ Mes objectifs étaient de :
 > **`Spring` `MyBatis` `Maven` `JQuery`**
 
 J'ai travaillé, en collaboration avec des développeurs et des chefs de projet, sur des projets webs en Java. \
-J'ai pu me familiariser avec des technologies comme **Spring, Mybatis, Maven et Jquery**.
+J'ai pu me familiariser avec des technologies comme **Spring, Mybatis, Maven et Jquery**.\
+Par la suite je suis parti en prestation pendant 8 mois chez Digital Insure.
 
 Mes rôles étaient de :
 
