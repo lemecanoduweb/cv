@@ -29,14 +29,10 @@ Concernant mes qualités, j’ai une bonne communication, je suis persévérant 
 > *Développeur Fullstack* \
 > **`Kotlin` `Spring` `Axon` `Maven` `Angular` `React` `Cucumber` `Jooq`**
 
-J'ai intégré, en tant que prestataire (Xebia), une feature team pour travailler sur un projet web de crédits structurés.
-
-Au sein de l'équipe, nous essayions d'être le plus possible en méthode **kanban**. \
+J'ai intégré une feature team pour travailler sur un projet web de crédits structurés. \
+Au sein de l'équipe, nous essayions d'être en méthode **kanban**. \
 Nous aimions beaucoup faire du **pair programming**, et pratiquer le **BDD/TDD**.
-
 La stack technique était composée de plusieurs **microservices Event Sourcés en Java/Kotlin** et quelques **fronts en Angular ou React**.
-
-Ma polyvalence et ma perséverance ont été deux qualités appréciées par mon équipe.
 
 Ma mission consistait à :
 - [x] Réaliser **l’étude et le développement des nouvelles features**
@@ -48,17 +44,16 @@ Ma mission consistait à :
 > *Nov 2018 - Nov 2020 (2 ans)* \
 > *Développeur Fullstack*
 
+En tant que consultant, j'ai fais une mission de 2 ans à la SG.
+
 ### Digital Insure (Amj Groupe)
 > *Fév 2018 - nov 2018 (8 mois)* \
 > *Support téchnique* \
 > **`AngularJs` `Java` `Python` `Bash` `Mysql`**
 
-Digital Insure est une startup qui développe un outil web pour l'obtention d'assurances crédits en ligne. J'ai intégré, en tant que prestataire (Amj Groupe), le pôle support.
-
+Digital Insure est une startup qui développe un outil web pour l'obtention d'assurances crédits en ligne. J'ai intégré le pôle support. \
 J'avais pour responsabilité de **garantir la pérennité des applications**. \
 J'ai dû réaliser et maintenir différents **scripts en Python/Java** ainsi qu'une interface d’administration en **Anguarjs**.
-
-Ma bonne communication et ma facilité à monter en compétence ont été les clefs pour mener à bien ma mission.
 
 Mes objectifs étaient de :
 - [x] **Faire le support de niveau 2**
@@ -71,8 +66,7 @@ Mes objectifs étaient de :
 > *Développeur Fullstack* \
 > **`Spring` `MyBatis` `Maven` `JQuery`**
 
-J'ai travaillé, en collaboration avec des développeurs et des chefs de projet, sur des projets webs en Java.
-
+J'ai travaillé, en collaboration avec des développeurs et des chefs de projet, sur des projets webs en Java. \
 J'ai pu me familiariser avec des technologies comme **Spring, Mybatis, Maven et Jquery**.
 
 Mes rôles étaient de :
