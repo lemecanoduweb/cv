@@ -24,7 +24,9 @@ Concernant mes qualités, j’ai une bonne communication, je suis persévérant 
 *Mes expériences*
 ----------------
 
-### Société Générale Corporate and Investment Banking
+### Nov 2018 - Nov 2020 Xebia
+
+#### Société Générale Corporate and Investment Banking
 > *Nov 2018 - Nov 2020 (2 ans)* \
 > *Développeur Fullstack (consultant)* \
 > **`Kotlin` `Spring` `Axon` `Maven` `Angular` `React` `Cucumber` `Jooq`**
@@ -40,13 +42,11 @@ Ma mission consistait à :
 - [x] **Gérer**, en relation avec les OPS, **la CI/CD** (jenkins) ainsi que **l’infrastructure de prod** (docker, kubernetes)
 - [x] Faire du support aux utilisateurs (moins d’une demi-journée par semaine)
 
-### Publicis Sapient (Xebia)
-> *Nov 2018 - Nov 2020 (2 ans)* \
-> *Développeur Fullstack*
-
 Employé en tant que consultant, j'ai fais une mission de 2 ans à la SGCIB.
 
-### Digital Insure
+### Nov 2015 - nov 2018 : Amj Groupe 
+
+#### Digital Insure
 > *Fév 2018 - nov 2018 (8 mois)* \
 > *Support téchnique (consultant)* \
 > **`AngularJs` `Java` `Python` `Bash` `Mysql`**
@@ -61,8 +61,8 @@ Mes objectifs étaient de :
 - [x] **développer des outils** pour automatiser l’administration
 - [x] Intégrer des systèmes
 
-### Amj Groupe
-> *Nov 2015 - nov 2018 (3 ans)* \
+#### Missions internes
+> *Nov 2015 - fév 2018 (2 ans et 3 mois)* \
 > *Développeur Fullstack* \
 > **`Spring` `MyBatis` `Maven` `JQuery`**
 
