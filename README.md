@@ -68,10 +68,8 @@ Mes objectifs étaient de :
 
 J'ai travaillé, en collaboration avec des développeurs et des chefs de projet, sur des projets webs en Java. \
 J'ai pu me familiariser avec des technologies comme **Spring, Mybatis, Maven et Jquery**.\
-Par la suite je suis parti en prestation pendant 8 mois chez Digital Insure.
 
 Mes rôles étaient de :
-
 - [x] Réaliser **l’étude et le développement des nouvelles features**
 - [x] **Réaliser la recette et la livraison** des applications
 - [x] **Effectuer la maintenance applicative**
