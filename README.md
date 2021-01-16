@@ -24,8 +24,9 @@ Concernant mes qualités, j’ai une bonne communication, je suis persévérant 
 *Mes expériences*
 ----------------
 
-### Société Générale Corporate and Investment Banking (Xebia)
+### Société Générale Corporate and Investment Banking
 > *Nov 2018 - Nov 2020 (2 ans)* \
+> Consultant Xebia \
 > *Développeur Fullstack* \
 > **`Kotlin` `Spring` `Axon` `Maven` `Angular` `React` `Cucumber` `Jooq`**
 
@@ -40,14 +41,9 @@ Ma mission consistait à :
 - [x] **Gérer**, en relation avec les OPS, **la CI/CD** (jenkins) ainsi que **l’infrastructure de prod** (docker, kubernetes)
 - [x] Faire du support aux utilisateurs (moins d’une demi-journée par semaine)
 
-### Xebia
-> *Nov 2018 - Nov 2020 (2 ans)* \
-> *Développeur Fullstack*
-
-En tant que consultant, j'ai fais une mission de 2 ans à la SG.
-
 ### Digital Insure (Amj Groupe)
 > *Fév 2018 - nov 2018 (8 mois)* \
+> Consultant Amj Groupe \
 > *Support téchnique* \
 > **`AngularJs` `Java` `Python` `Bash` `Mysql`**
 
